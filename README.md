@@ -3,13 +3,12 @@
 Rohan.B  1RVU22BSC082  
 Gunashree.R  1RVU22BSC032
 
-This project is a face recognition-based attendance system that uses OpenCV and Python. The system uses a camera to capture images of individuals and then compares them with the images in the database to mark attendance.
+This project is a face recognition-based Smart Attendance System developed using Python and OpenCV. Initially, the system registers a user by capturing their facial image and associating it with their name. During subsequent logins, it automatically detects and recognizes the face using pre-trained models, then logs the attendance data into an Excel sheet with the timestamp. The project eliminates the need for manual attendance, ensuring greater accuracy and efficiency, especially useful in academic or office environments. It demonstrates proficiency in computer vision, facial recognition techniques, and real-time data logging.
 
 ## Installation
 
 1. Clone the repository to your local machine. ``` git clone: https://rohan12-stack.github.io/smart-attendance/ ```
 2. Install the required packages using ```pip install -r requirements.txt```.
-3. Download the dlib models from https://drive.google.com/drive/folders/12It2jeNQOxwStBxtagL1vvIJokoz-DL4?usp=sharing and place the data folder inside the repo
 
 ## Usage
 

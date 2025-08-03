@@ -1,4 +1,5 @@
 # Face Recognition Based Attendance System
+![Project Screenshot](SAS.jpeg)
 Rohan.B  1RVU22BSC082  
 Gunashree.R  1RVU22BSC032
 
